@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/icon_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/ic_plus"
+        android:icon="@drawable/icon_plus"
+        android:title="Tambah Lokasi"/>
+
+    <item
+        android:id="@+id/ic_user"
+        android:icon="@drawable/icon_person"
+        android:title="Akun"/>
+
+    <item
+        android:id="@+id/ic_logout"
+        android:icon="@drawable/icon_logout"
+        android:title="Logout"/>
+
+</menu>
